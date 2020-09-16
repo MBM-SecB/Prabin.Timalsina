@@ -14,16 +14,16 @@ class SelectionStatement
         switch(input)
         {
             case"books":
-            Console.WriteLine("Great man thats very good for your fucking health");
+            Console.WriteLine("Great man thats very good for your health");
             break;
             case"food":
-            Console.WriteLine("Holy fuck you are gonna be so fucking fat that you cant even fuck");
+            Console.WriteLine("you fat ass");
             break;
             case"games":
-            Console.WriteLine("Great myan be a messi");
+            Console.WriteLine("sportydude");
             break;
             case"swimms":
-            Console.WriteLine("Fuck man sharks gonna eat your dick out");
+            Console.WriteLine("Fuck man sharks gonna eat your heart out");
             break;
             default:
             break;
